@@ -5,4 +5,4 @@
   
 😄 Pronouns: She/Her
 
-⚡ Fun fact: My energies come from love.
+⚡ Fun fact: I love programming and programmer.
