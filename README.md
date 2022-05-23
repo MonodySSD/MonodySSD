@@ -4,5 +4,3 @@
 📫 How to reach me: sinsuda.com@gmail.com
   
 😄 Pronouns: She/Her
-
-⚡ Fun fact: I love programming and programmer.
