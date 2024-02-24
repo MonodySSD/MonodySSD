@@ -1,2 +1,3 @@
-A Sci-Maths student who stumbles into the programming field accidentally.
-But I think I love it ^^
+Hello : สวัสดีค่ะ
+Welcome ๆ : ยินดีต้อนรับค่า
+Please feel free to take a moment to sit back and enjoy my work. : เรียนเชิญนั่งพักชมผลงานทางนี้ก่อนนะคะ
